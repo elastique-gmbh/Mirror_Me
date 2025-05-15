@@ -1,0 +1,7 @@
+*.dmp
+*.mp4
+*.mov
+CrashAuto*
+TDImport**
+QR/*
+start_upload.txt
