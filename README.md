@@ -5,6 +5,9 @@ Mirror Me is an immersive kinetic installation that delves into themes of radica
 
 In an era dominated by self-referential digital content, Mirror Me invites participants to reflect—both literally and metaphorically—on their presence and perception. The synchronized movements of the mirrors and the evolving soundscapes create an environment that is both introspective and expressive. Visitors become central to the artwork, experiencing a continuous loop of self-observation and expression.
 
+Video-Documentation:
+https://vimeo.com/elastique/mirrorme
+
 # Technical Overview
 
 Robotics: Utilizes two Universal Robots cobots to maneuver mirrored panels in choreographed sequences.
