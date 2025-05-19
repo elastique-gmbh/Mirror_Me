@@ -14,7 +14,7 @@ Robotics: Utilizes two Universal Robots cobots to maneuver mirrored panels in ch
 
 Animation & Control: Robot movements are designed in Cinema 4D, with animation data extracted and processed via Python scripts. This data is then integrated into TouchDesigner to trigger real-time interactions.
 
-Sound Design: Four unique soundscapes correspond to different movement sequences, each eliciting varied emotional responses—from light and floating to aggressive and oppressive. Created in Pro Tools using Plugins from Native Instruments, Waves and more
+Sound Design: Four unique soundscapes correspond to different movement sequences, each eliciting varied emotional responses—from light and floating to aggressive and oppressive. Created in Steinberg Nuendo using Plugins from Native Instruments, Waves and more
 
 Visitor Interaction: An automated system captures and edits a video of each visitor's experience from three angles, available for download 20 seconds post-interaction. This feature encourages sharing and re-engagement, reinforcing the theme of self-reflection.
 
