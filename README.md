@@ -1,4 +1,4 @@
-# Mirror_Me
+# Mirror Me
 Interactive kinetic installation exploring self-perception through cobot-controlled mirrors and immersive soundscapes.
 
 Mirror Me is an immersive kinetic installation that delves into themes of radical self-expression and digital identity. Developed by Elastique. GmbH, the project features two collaborative robots (cobots) manipulating mirrored surfaces to create endless visual "echoes" of the viewer. Accompanied by four distinct soundscapes, the installation transforms into a hyper-charged echo chamber of the self.
